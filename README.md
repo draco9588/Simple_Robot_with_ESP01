@@ -1,0 +1,2 @@
+# Simple_Robot_with_ESP01
+This is a basic car robot with a few sensors added to the Arduino board to show the many things that can be accomplished with this microcontroller. Arduino IDE was used to code the robot. I added a esp01 for a phone application communication. The Arduino board I have is not Wi-Fi, but with ESP 8266 communication protocol I was able to establish both a access point and station base to communicate with a simple phone application created to work with the simple robot. I used Microsoft Visual Studio to create the phone application.
